@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Shubham152003
-- 👀 I’m interested in Web development ...
-- 🌱 I’m currently Pursuing BCA ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi! My self Shubham Mandal
 
-<!---
-Shubham152003/Shubham152003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Highly motivated and detail-oriented web developer with a diploma in web designing. Currently pursuing BCA, I specialize in crafting innovative digital solutions. Proficient in [list programming languages and technologies]. Let's build something amazing together!"
+
+Option 2: Creative
+
+"Web enthusiast | Diploma in Web Designing | Pursuing BCA
+
+Where code meets creativity! I'm a passionate web developer with a keen eye for design. Skilled in [list programming languages and technologies]. Always looking for new challenges and collaborations."
+
+Option 3: Simple & Concise
+
+"Web Developer & Designer | BCA Student
+
+Diploma in Web Designing | Proficient in [list programming languages and technologies]. Building dynamic web applications with a focus on user experience."
+
+Option 4: Personal Touch
+
+"Hi, I'm [Shubham Mandal]! As a web designer, I love turning ideas into reality. With a diploma in web designing and pursuing BCA, I'm constantly learning and growing. Let's connect and create something amazing together!"
